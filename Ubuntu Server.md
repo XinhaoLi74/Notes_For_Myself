@@ -5,5 +5,15 @@
   
   2. Create a [bootable USB drive](https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows#1).
   
+## Install
+  1. Disable the Secure Boot from BIOS (F12)
+  2. Plug USB drive, reboot machine (F12), and start installation, reboot
+  3. Remote access via SHH (MobaXterm for Windows)
+  4. set up passward for root user:
+      
+
+## Deep learning environment
+  1. Install Nvidia Drivers
+  
   
   
