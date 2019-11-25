@@ -2,7 +2,7 @@
 
 1. create a conda environment.
 
-`conda create -n name jupyter jupyterlab matplotlib pandas scikit-learn rdkit::rdkit`
+`conda create -n name jupyter jupyterlab matplotlib pandas scikit-learn rdkit`
 
 2. export the contents of the environment.
 
